@@ -62,25 +62,25 @@ export const feedback = [
   {
     id: 'feedback-1',
     content:
-      'This app is a game-changer! I feel empowered and in control of my finances. Highly recommend it!',
-    name: 'Jane S',
-    title: 'Founder & Leader',
+      'This site is a game-changer! I feel empowered and in control of my finances. Highly recommend it!',
+    name: 'Naman',
+    title: 'Student',
     img: people01,
   },
   {
     id: 'feedback-2',
     content:
-      'Managing my finances is so much easier with this app. The personalized recommendations have helped me optimize my spending and savings.',
-    name: 'Steve Mark',
-    title: 'Founder & Leader',
+      'Managing my finances is so much easier with this site. The personalized recommendations have helped me optimize my spending and savings.',
+    name: 'Archit',
+    title: 'Student',
     img: people02,
   },
   {
     id: 'feedback-3',
     content:
-      "I'm blown away by the investment management features. The personalized recommendations have helped me make informed decisions about my investments.",
-    name: 'Kenn Gallagher',
-    title: 'Founder & Leader',
+      "The design is user friendly, The personalized recommendations have helped me make decisions about my daily expenditure and savings.",
+    name: 'Amrita',
+    title: 'Student',
     img: people03,
   },
 ];
@@ -89,17 +89,17 @@ export const stats = [
   {
     id: 'stats-1',
     title: 'User Active',
-    value: '3800+',
+    value: '10+',
   },
   {
     id: 'stats-2',
-    title: 'Trusted by Company',
-    value: '230+',
+    title: 'Trusted by Students',
+    value: '10+',
   },
   {
     id: 'stats-3',
     title: 'Transaction',
-    value: '$230M+',
+    value: '$2.5k',
   },
 ];
 
