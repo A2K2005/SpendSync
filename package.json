@@ -1,0 +1,12 @@
+{
+  "name": "spendsync",
+  "version": "1.0.0",
+  "description": "SpendSync is a personal finance management app designed specifically for teenagers to track their expenses and investment opportunities in stocks and crypto. Built with React, Vite, Tailwind CSS, Node.js, and MongoDB, SpendSync also has AI-integrated features like receipt scanning and smart expense tracking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
