@@ -31,7 +31,6 @@ According to a recent report by the Reserve Bank of India, digital transactions 
 - Vite: A build tool that provides fast and efficient development experience.
 - Tailwind CSS: A utility-first CSS framework for building custom designs.
 - Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine for building scalable server-side applications.
-- MongoDB: A popular NoSQL database for storing and retrieving data.
 
 ## Getting Started
 
