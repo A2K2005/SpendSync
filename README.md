@@ -38,7 +38,7 @@ According to a recent report by the Reserve Bank of India, digital transactions 
 To get started with SpendSync, follow the steps below:
 
 1. Install Node.js and MongoDB on your machine.
-2. Clone the repository: `git clone https://github.com/adithya-s-k/SpendSync.git`
+2. Clone the repository: `git clone https://github.com/A2K2005/SpendSync.git`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open the app in your browser: `http://localhost:3000`
@@ -47,7 +47,7 @@ To get started with SpendSync, follow the steps below:
 
 Contributions to this project are welcome. To contribute, follow these steps:
 
-1. Fork the repository: `https://github.com/adithya-s-k/SpendSync.git`
+1. Fork the repository: `https://github.com/A2K2005/SpendSync.git`
 2. Create a new branch: `git checkout -b feature/your-feature`
 3. Make changes and commit them: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
