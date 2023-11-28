@@ -24,7 +24,7 @@ const Hero = () => {
             The Next <br className="sm:block hidden" />{' '}
             <span className="text-gradient">Generation </span>{' '}
           </h1>
-          <a href="https://money-mate-tracker.vercel.app/" target="_blank">
+          <a href="https://spend-sync-5dmp.vercel.app/" target="_blank">
             <div className="ss:flex hidden md:mr-4 mr-0">
               <GetStarted />
             </div>
