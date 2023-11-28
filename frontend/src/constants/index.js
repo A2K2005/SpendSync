@@ -63,7 +63,7 @@ export const feedback = [
     id: 'feedback-1',
     content:
       'This site is a game-changer! I feel empowered and in control of my finances. Highly recommend it!',
-    name: 'Naman',
+    name: 'Amrita',
     title: 'Student',
     img: people01,
   },
@@ -79,7 +79,7 @@ export const feedback = [
     id: 'feedback-3',
     content:
       "The design is user friendly, The personalized recommendations have helped me make decisions about my daily expenditure and savings.",
-    name: 'Amrita',
+    name: 'Naman',
     title: 'Student',
     img: people03,
   },
