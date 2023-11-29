@@ -285,6 +285,7 @@ const Testimonials = () => (
       <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
         <h2 className={styles.heading2}>
           What People are <br className="sm:block hidden" /> saying about us
+          </h2>
       </div>
 
       <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
